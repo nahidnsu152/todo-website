@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nahidnsu152.github.io/todo-website/static/css/main.d64278ca.chunk.css",
+    "main.js": "/nahidnsu152.github.io/todo-website/static/js/main.dc28a542.chunk.js",
+    "main.js.map": "/nahidnsu152.github.io/todo-website/static/js/main.dc28a542.chunk.js.map",
+    "runtime-main.js": "/nahidnsu152.github.io/todo-website/static/js/runtime-main.da7c781a.js",
+    "runtime-main.js.map": "/nahidnsu152.github.io/todo-website/static/js/runtime-main.da7c781a.js.map",
+    "static/js/2.a15baf37.chunk.js": "/nahidnsu152.github.io/todo-website/static/js/2.a15baf37.chunk.js",
+    "static/js/2.a15baf37.chunk.js.map": "/nahidnsu152.github.io/todo-website/static/js/2.a15baf37.chunk.js.map",
+    "index.html": "/nahidnsu152.github.io/todo-website/index.html",
+    "precache-manifest.bb0f6046beaff9790a6641f76690f56c.js": "/nahidnsu152.github.io/todo-website/precache-manifest.bb0f6046beaff9790a6641f76690f56c.js",
+    "service-worker.js": "/nahidnsu152.github.io/todo-website/service-worker.js",
+    "static/css/main.d64278ca.chunk.css.map": "/nahidnsu152.github.io/todo-website/static/css/main.d64278ca.chunk.css.map",
+    "static/js/2.a15baf37.chunk.js.LICENSE.txt": "/nahidnsu152.github.io/todo-website/static/js/2.a15baf37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da7c781a.js",
+    "static/js/2.a15baf37.chunk.js",
+    "static/css/main.d64278ca.chunk.css",
+    "static/js/main.dc28a542.chunk.js"
+  ]
+}
